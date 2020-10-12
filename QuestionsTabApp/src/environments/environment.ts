@@ -1,7 +1,7 @@
 export const environment = {
     production: false,
-    apiBaseUrl: "https://JonBroomeedpn.azurewebsites.net/api/Request/",
-    selfUrl: "https://JonBroomeedpn-questions.azurewebsites.net",
+    apiBaseUrl: "https://jonbroomeedpn.azurewebsites.net/api/Request/",
+    selfUrl: "https://jonbroomeedpn-questions.azurewebsites.net",
 
     authConfig: {
         instance: "https://login.microsoftonline.com/",
